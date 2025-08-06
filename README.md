@@ -10,4 +10,17 @@ June	62,000	60,000	2,000	2000
 July	58,000	70,000	-12,000	0	
 August	65,000	55,000	10,000	10000	
 September	57,000	59,000	-2,000	0	
-October	66,000	66,000	0	0	
+October	66,000	66,000	0	0	   
+
+Split data................
+Location	city	pincode
+Delhi - 110001	Delhi	110001
+Mumbai - 400001	Mumbai	400001
+Bengaluru - 560001	Bengaluru	560001
+Kolkata - 700001	Kolkata	700001
+Chennai - 600001	Chennai	600001
+Hyderabad - 500001	Hyderabad	500001
+Jaipur - 302001	Jaipur	302001
+Lucknow - 226001	Lucknow	226001
+Ahmedabad - 380001	Ahmedabad	380001
+Pune - 411001	Pune	411001
